@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shahad Alketbi
+- 👀 I’m interested in Data Analysis, Machine Learning, and Software development.
+- 🌱 I’m currently learning Machine Learning & NLP
+- 💞️ I’m looking to collaborate on ML & data analysis projects
+- 😄 Pronouns: She/Her
